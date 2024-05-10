@@ -1,6 +1,5 @@
-# Traffic-Spring
 
-[application.properties]
+# application.properties
 
 spring.application.name=Traffic-predict
 
